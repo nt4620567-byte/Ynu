@@ -17,23 +17,7 @@
 - 🌱 Không hoàn hảo nhưng luôn thật lòng.  
 - 💡 Ngoài lạnh lùng, trong soft soft.  
 - 🎯 Đi nhẹ - nói khẽ - cười duyên.  
-- 😎 Sống đơn giản cho đời thanh thản.  
-
----
-
-## 🔧 Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,git,python" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
+- 😎 Sống đơn giản cho đời thanh thản
 ---
 
 ## 📫 Contact Me
